@@ -1,8 +1,8 @@
 /* get rid of this soon and do it correctly */
 h2 {
-  color: black
+  color: black;
+  text-align: center;
 }
-
 
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Monoton&display=swap");
