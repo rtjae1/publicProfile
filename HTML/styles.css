@@ -152,7 +152,7 @@ body {
 
 .tour-row {
   border-bottom: 1px solid black;
-  padding-bottom: 1em;
+  /* padding-bottom: 1em; */
   margin-bottom: 1em;
 }
 
@@ -211,6 +211,10 @@ body {
 
 .shop-item-image {
   height: 250px;
+}
+
+.most-recent-item {
+  height: 2px;
 }
 
 .shop-item-details {
