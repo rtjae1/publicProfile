@@ -52,7 +52,7 @@ body {
 .main-header {
   background-color: rgba(0, 0, 0, 0.1);
   /* background-image: url(images/headerRetroBubble.jpg); */
-  background-image: url(/assets/images/bg1.png);
+  background-image: url(./assets/images/bg1.png);
   background-blend-mode: multiply;
   background-size: cover;
   padding-bottom: 30px;
@@ -99,7 +99,7 @@ body {
 .main-footer {
   background-color: rgba(104, 91, 64, 0.719);
   /* background-image: url(images/headerRetroBubble.jpg); */
-  background-image: url(images/bg1.png);
+  background-image: url(./assets/images/bg1.png);
   padding: 2.5em 0;
 }
 
