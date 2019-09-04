@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Monoton&display=swap");
 
+h2 {
+  text-align: center;
+  font-color: black;
+}
+
 * {
   box-sizing: border-box;
   font-family: Raleway;
