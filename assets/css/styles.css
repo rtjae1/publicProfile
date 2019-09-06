@@ -50,7 +50,7 @@ body {
 
 .main-header {
   background-color: rgba(0, 0, 0, 0.1);
-  background-image: url("assets/images/headingFootingBackground.png");
+  background-image: url("../images/headingFootingBackground.png");
   /* background-blend-mode: multiply; */
   background-size: cover;
   padding-bottom: 30px;
