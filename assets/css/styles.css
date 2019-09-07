@@ -200,13 +200,17 @@ body {
   background-color: rgb(51, 51, 51, 0.5);
 }
 
+.projects {
+  height: 500px;
+}
+
 .shop-item {
   margin: 30px;
 }
 
 .shop-item-title {
   display: block;
-  width: 100%;
+  width: 150px;
   text-align: center;
   font-weight: bold;
   font-size: 1.5em;
