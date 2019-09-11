@@ -172,6 +172,9 @@ body {
 .tour-item {
   display: inline-block;
   padding-right: 0.5em;
+  width: 150px;
+  color: #333;
+  margin-bottom: 15 px;
 }
 
 .tour-date {
@@ -185,7 +188,9 @@ body {
 }
 
 .tour-arena {
-  width: 42%;
+  width: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .tour-btn {
