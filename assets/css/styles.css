@@ -13,7 +13,7 @@ h2 {
 }
 
 div {
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 html,
@@ -370,7 +370,6 @@ body {
   margin-top: auto;
   margin-bottom: auto;
 }
-
 
 /* 09:27:30 */
 
