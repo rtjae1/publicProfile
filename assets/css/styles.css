@@ -211,6 +211,7 @@ body {
 }
 
 .projects {
+  position: relative;
   height: 350px;
 }
 
@@ -220,6 +221,8 @@ body {
 
 .shop-item-title {
   display: block;
+  position: absolute;
+  top: 0;
   width: 150px;
   text-align: center;
   font-weight: bold;
@@ -230,6 +233,7 @@ body {
 
 .shop-item-image {
   height: 150px;
+  margin-top: 50%;
 }
 
 .most-recent-item {
@@ -245,6 +249,14 @@ body {
 .shop-item-price {
   flex-grow: 1;
   color: #333;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.shop-item-button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 .shop-items {
@@ -359,22 +371,6 @@ body {
   position: relative;
   right: 0;
   bottom: 0;
-}
-
-.one {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
-.two {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
 }
 
 /* 09:27:30 */
