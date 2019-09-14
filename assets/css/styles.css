@@ -213,6 +213,7 @@ body {
 .projects {
   position: relative;
   height: 350px;
+  margin-top: 10px;
 }
 
 .shop-item {
