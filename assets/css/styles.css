@@ -178,7 +178,7 @@ body {
   margin-bottom: 15 px;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -228,7 +228,7 @@ a{
   display: block;
   position: absolute;
   top: 0;
-  width: 150px;
+  align-content: center;
   text-align: center;
   font-weight: bold;
   font-size: 1.5em;
