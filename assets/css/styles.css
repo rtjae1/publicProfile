@@ -178,6 +178,10 @@ body {
   margin-bottom: 15 px;
 }
 
+a{
+  text-decoration: none;
+}
+
 .tour-date {
   color: #333;
   font-weight: bold;
